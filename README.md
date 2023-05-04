@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://github.com/KhaledChehabeddine/KhaledChehabeddine">
-    <img src="khaledchehabeddine.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="profile_intro.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
