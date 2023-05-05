@@ -5,7 +5,6 @@
 </div>
 
 <p align="center">
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+App+%26+Web+Developer;DevOps+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+App+%26+Web+Developer;DevOps+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
